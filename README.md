@@ -84,14 +84,3 @@ Bachelor of Science (BS) | **Accountancy**
 - Business Analysis | Process Optimization | **Stakeholder Collaboration** | Requirements Engineering  
 
 ---
-
-### **Certifications**
-- **Analytics Manager Path** | Development Academy of The Philippines  
-- **Data Analytics Bootcamp** | Eskwelabs  
-
----
-
-### **Contact Information**
-- Email: marialuisalichia@gmail.com  
-- Phone: +639159534873  
-- LinkedIn: [linkedin.com/in/luisa-li-chia](https://linkedin.com/in/luisa-li-chia)
